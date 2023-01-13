@@ -24,7 +24,7 @@ services:
       retries: 55
     networks:
       - application-network
-    container_name: match-db
+    container_name: application-db
 
 networks: 
   application-network:
