@@ -1,6 +1,6 @@
 
 CREATE SCHEMA IF NOT EXISTS `applicationdb` DEFAULT CHARACTER SET utf8 ;
-USE `authdb` ;
+USE `applicationdb` ;
 
 -- -----------------------------------------------------
 -- Table `applicationdb`.`placed_bets`
